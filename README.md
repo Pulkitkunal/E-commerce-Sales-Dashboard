@@ -5,8 +5,8 @@ E-Commerce Sales Performance Dashboard
 Dynamic, end-to-end analytics solution empowering e-commerce stakeholders to track sales trends, profit drivers, customer behaviors, and operational KPIs like total sales (₹4.3L-5.6L), payment modes (UPI 37%, Cards 63%), and sub-category profitability—driving data-informed decisions for revenue growth and optimization.
 
 ## 3. Tech Stack
-ETL & Processing: Python (Pandas), Jupyter Notebook, Power Query transformations  
-Database & Querying: PostgreSQL (pgAdmin4), MySQL, SQL queries  
+ETL & Processing: Power Query transformations  
+Database & Querying: MySQL, SQL queries  
 Visualization & Modeling: Power BI (DAX measures/calculations, data modeling, slicers/filters/maps, advanced relationships)  
 Version Control: Git/GitHub.
 
