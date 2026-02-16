@@ -20,4 +20,5 @@ Advanced Insights: Sub-category performance (highlighting high-profit items), ne
 Scalability: Handles large datasets, custom DAX for complex metrics, row-level security ready.
 
 6. Screenshot
-https://github.com/Pulkitkunal/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20E-commerce%20Sales%20Dashboard.png
+![Alt_text](https://github.com/Pulkitkunal/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20E-commerce%20Sales%20Dashboard.png)
+![Dashboard_preview](https://github.com/Pulkitkunal/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20E-commerce%20Sales%20Dashboard.png)
