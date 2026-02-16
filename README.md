@@ -21,4 +21,3 @@ Scalability: Handles large datasets, custom DAX for complex metrics, row-level s
 
 6. Screenshot
 ![Alt_text](https://github.com/Pulkitkunal/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20E-commerce%20Sales%20Dashboard.png)
-![Dashboard_preview](https://github.com/Pulkitkunal/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20E-commerce%20Sales%20Dashboard.png)
