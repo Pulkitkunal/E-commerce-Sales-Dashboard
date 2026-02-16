@@ -1,4 +1,4 @@
-1. Project Title
+# 1. Project Title
 E-Commerce Sales Performance Dashboard
 
 2. Short Description
